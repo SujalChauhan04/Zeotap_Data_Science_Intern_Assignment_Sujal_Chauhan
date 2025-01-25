@@ -80,4 +80,5 @@ The dataset consists of three CSV files:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<SujalChauhan04>/<Zeotap_Data_Science_Intern_Assignment_Sujal_Chauhan>.git
+   git clone https://github.com/SujalChauhan04/Zeotap_Data_Science_Intern_Assignment_Sujal_Chauhan.git
+
